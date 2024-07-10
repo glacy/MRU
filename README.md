@@ -20,4 +20,4 @@ Gráficas y ecuaciones de la posición en función del tiempo y de la velocidad 
 ### Molécula de amonio
 :link: [enlace](https://glacy.github.io/MRUA/)
 Visualización interactiva de la representación gráfica de una molécula de amonio:
-- :code: Asymptote
+- :video_game: Asymptote
